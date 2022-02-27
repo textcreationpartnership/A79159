@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Wiltshire-petition for tythes explained, for the better understanding of the people of this Commonwealth. Herein you have first the petition it self at large inserted, and then the observations follow, being directed to each material passage in the petition by a letter of the alphabet. By E.C. and R.E.</title>
+            <author>E. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79159</idno>
+            <idno type="STC">Wing C29</idno>
+            <idno type="STC">Thomason E690_12</idno>
+            <idno type="STC">ESTC R206992</idno>
+            <idno type="EEBO-CITATION">99866069</idno>
+            <idno type="PROQUEST">99866069</idno>
+            <idno type="VID">118329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118329)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E690[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Wiltshire-petition for tythes explained, for the better understanding of the people of this Commonwealth. Herein you have first the petition it self at large inserted, and then the observations follow, being directed to each material passage in the petition by a letter of the alphabet. By E.C. and R.E.</title>
+                  <author>E. C.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Larnar, at the Black-moor's head neer Fleet-bridge,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 1 begins on A1v.</note>
+                  <note>Annotation on Thomason copy: "Aprill 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118329:1" rendition="simple:additions"/>
+            <p>THE Wiltſhire-Petition FOR TYTHES EXPLAINED, For the better underſtanding of the PEOPLE Of this COMMONWEALTH.</p>
+            <p>Herein you have firſt the Petition it ſelf at large inſerted, and then the Obſervations follow, being directed to each material paſſage in the Petition by a letter of the Alphabet.</p>
+            <p>By <hi>E. C.</hi> and <hi>R. E.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Larnar,</hi> at the Black-moor's head neer Fleet-bridge. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:118329:2"/>
+            <head>To the Honourable the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England. (A)</hi>
+            </head>
+            <head type="sub">The humble Petition of us Gentlemen, free-holders, and other <hi>(B)</hi> Inhabitants in the County of <hi>Wilts,</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners having to their unſpeakable griefe obſerved the workings of Satan, transforming himſelf into an Angel of light, tending to the underminding of holi<g ref="char:EOLhyphen"/>neſs and Chriſtian Religion, by a generation of men who cry down Learning, Miniſtery, Ordinances, and almoſt whatever belongs to us as Chriſtians or Civil men. <hi>(C)</hi> And having obſerved the endeavours of ſome, by ſo many waies to diſturbe and remove the ſo long ſetled way for the maintenance of Miniſters eſtabliſhed by the ſame Lawes by which any property is injoyed in this Nation <hi>(D)</hi> without any regard to the ſetling of a ſure and full maintenance in ſtead of it, <hi>(E)</hi> Conceive themſelves bound in Conſcience both of Duty to God and to the Commonwealth, to give in their teſtimony againſt them in their practiſes. We dare not be ſilent, when in the Language and the workings of many amongſt our ſelves the Miniſtery, and Ordinances of Jeſus Chriſt are ſo manifeſtly expoſed, not one<g ref="char:EOLhyphen"/>ly to the inſultings of men openly and profeſſedly prophane, <hi>(F)</hi> But (which is more to be lamented) to the ſcorne and con<g ref="char:EOLhyphen"/>tempt of ſuch as pretend to great lights in Religion, which do ſo manifeſtly tend not onely to the utter ſubverſion of all Re<g ref="char:EOLhyphen"/>ligion, but, as a neceſſary conſequence of it, to the deſtruction and diſſolution of all bonds of Civil Government. <hi>(G)</hi> To whom under Heaven ſhould we make our-moan, and before
+<pb n="2" facs="tcp:118329:2"/> whom ſhould we ſpread our complaints, but before your Honors? to whom we cannot but with all thankfulneſs acknowledge the goodneſs of God toward this Nation <hi>(I)</hi> in governing and diſpoſing your Honours hearts at ſuch a time as this, when there are ſo many deſperate ſuggeſtions and attempts againſt Univer<g ref="char:EOLhyphen"/>ſities, Ordinances, Miniſtery, and their neceſſary maintenance, to declare your ſelves, as you have done, real countenancers and ſupporters of them all; which gives the godly of this Nation ground of hope, the Lord will further honour you to be inſtru<g ref="char:EOLhyphen"/>ments for eſtabliſhing and countenancing of all theſe, for the glory of his great Name, and for the ſetling of the Goſpel in purity and power, to be a bleſſed inheritance to ſucceeding ge<g ref="char:EOLhyphen"/>nerations; and to whom we thought it our duty in our places to declare that your Petitiones, in conſent (as we humbly con<g ref="char:EOLhyphen"/>ceive) with the People of God generally in this Land <hi>(K)</hi> (whatſoever ſome ſuggeſt to the contrary) do greatly rejoyce in thoſe your Chriſtian actings, that ſo your hands may be ſtrength<g ref="char:EOLhyphen"/>ned in the work of God, and therefore are further encouraged to make their humble addreſſes to this Honorable aſſembly, with theſe (as we conceive) neceſſary requests.</p>
+            <p n="1">1. That by your wiſdome and care, the Ordinances of Jeſus Chriſt may be countenanced and preſerved from the ſcorne, contempt, and prophane neglect to which they are expoſed both by ſome Miniſters them<g ref="char:EOLhyphen"/>ſelvs, who give too much occaſion thereof by their ig<g ref="char:EOLhyphen"/>norance and ſcandalous living, old empty formalities ſtill continued, and alſo by many others both prophane and humorous perſons. <hi>(L)</hi>
+            </p>
+            <p n="2">2. That Paſtours and Teachers <hi>(M<g ref="char:punc">▪</g>
+               </hi> for the work of the Miniſtery &amp; edifying of the body of Chriſt, may with the like wiſdom and care be countenanced, your Peti<g ref="char:EOLhyphen"/>tioners being well aſſured that it will be a very accept<g ref="char:EOLhyphen"/>able ſervice to Jeſus Chriſt your Lord &amp; ours, to own &amp; encourage thoſe Embaſſadors of his, to whom he hath
+<pb n="3" facs="tcp:118329:3"/> committed the word of Reconciliation, and with whom he hath promiſed to be to the end of the world, and in whom we have found (by ſweet experience) up<g ref="char:EOLhyphen"/>on our ſouls, the power and the ſence of Jeſus Chriſt according to his promiſes.</p>
+            <p n="3">3. That as the Lord of old ſetled the Schooles of the Prophets amongſt his peculiar people, and hath bleſſed our Univerſities and Schooles of learning, for the breeding up and ſending forth many choyce inſtru<g ref="char:EOLhyphen"/>ments of his glory both in Church and Common<g ref="char:EOLhyphen"/>wealth; ſo you would be pleaſed to continue our Uni<g ref="char:EOLhyphen"/>verſities, and other Schooles of learning under your ſpecial care and protection. <hi>(N)</hi>
+            </p>
+            <p n="4">4. That for preſerving the Miniſtery from contempt, <hi>(O)</hi> freeing them from the temptation of men-pleaſing and humane dependences, from diſtracting diverſions in the work of the Lord, enabling them to works of mercy, and for ſupplying them with neceſſary proviſi<g ref="char:EOLhyphen"/>ons for their ſtudies and families, that ſo they which preach the Goſpel may live of the Goſpel, Your Hon<g ref="char:EOLhyphen"/>ours would be pleaſed to continue their maintenance, with neceſſary inlargment in thoſe places where means are wanting.</p>
+            <p>Theſe things we humbly and earneſtly requeſt of your Honours; and who knows whether God hath not raiſed you up for ſuch a time as this is? in the per<g ref="char:EOLhyphen"/>formance whereof, you ſhall the more engage the Lord Jeſus to defend both you and us, who hath ſo eminent<g ref="char:EOLhyphen"/>ly appeared hitherto in our preſervation, and wil be the ſureſt defence of thoſe that act for him: and you ſhall alſo make glad the hearts of the godly in this Land, ſtop the mouths of thoſe who are ſo ready to ſpeak evil of you, and alſo prevent the deſigns thoſe who are con<g ref="char:EOLunhyphen"/>trary minded, and further oblige us to pray.</p>
+         </div>
+         <div type="observations_on_petition">
+            <pb n="4" facs="tcp:118329:3"/>
+            <head>The Obſervations, or Explanation.</head>
+            <p>(A) IF the old Spirit of Malignancy and high Presbytery, had not remain<g ref="char:EOLhyphen"/>ed in the contrivers of this Petition, they would have ſuffered it to have ſpoken in the Frontiſpeece, Right Honourable, and in words at length and not in figures, acknowledged them the Supream Authority of this Commonwealth; but ſuch are the cunning ſlights and devices of the Clergy, the contrivers and promoters of this petition, though they make the peo<g ref="char:EOLhyphen"/>ple of the Land, Gentlemen and Freeholders, <hi>&amp;c.</hi> their ſlaves and Aſſes to ride on, to uphold their Lordly dommination, and exorbitant Tyrannot<g ref="char:punc">▪</g>s maintenance by Tithes, yet will not let then go ſo far as to own this Autho<g ref="char:EOLhyphen"/>rity downright, as Supream, Becauſe they lye at the hope of advancing another Authority; unto which they will ſpeak aloud, and full, and ſay, To his moſt Sacred Majeſty.</p>
+            <p>(B) You ſhould have ſaid, in the room of (other inhabitants) Hoſtlers, Chamberlains, Tapſters, and all the profane people of <hi>Wilts,</hi> with the Schoolmaſter not many miles from <hi>Marlingsborow,</hi> who ſet his name to it, and made all his little School-Boyes ſet theirs: and he contrived many o<g ref="char:EOLhyphen"/>ther names, and cauſed his Boyes to write them, to fill up the number of the Gentlemen, Freeholders, and other inhabitants of the County of <hi>Wilts;</hi> or elſe they muſt have been whipt. Is not this a fine way to carry on a Petiti<g ref="char:EOLhyphen"/>on, and abuſe the Gentlemen and free-holders, to rank them with ſuch com<g ref="char:EOLhyphen"/>panions? but you may ſee what blinde zeal will do. It was the practice of the Caviliers, to carry on their wicked deſigns by lies and forgeries, and ſo do theſe.</p>
+            <p>(C) It were to be wiſhed that the Petitioners in theſe words did ſpeak truth: it is to be feared they do not; for the Tapſters, Hoſtlers and Cham<g ref="char:EOLhyphen"/>berlaine, and the profane people of <hi>Wilts,</hi> with the Schoole-Boyes, never troubled their hears to be ſo obſervant; but as they began with a lye, ſo they go one. But if they all had been ſo diligent obſervers, they might have ſeen Satans working and carrying on his deſign in this Petition, who ſtriveth to ſet up himſelf, and advance his Kingdome by his inſtruments, by perſecuting all others that are not in their way, though they be ſuch as do live <hi>in all godlineſs and honeſty.</hi>
+            </p>
+            <p>(D) Here is the great buſineſs in this petition: you may know the Lyon by his pawe, <hi>the hand of</hi> Joab <hi>is in all this:</hi> the Merchants that are trading here, are diſcovered: yet may know who they are that make all this duſt; they are <hi>Demetrius</hi> his Apprentices, Silver-ſmiths by occupation: there<g ref="char:EOLhyphen"/>fore they cry it up in every Pulpit and Preſs, and preach it in every Town and Village, this their <hi>Diana,</hi> by which they get their ſo great gaine, riches and honours, elſe you ſhould never have heard of the Clergy coming to the Parliament with a Petition; for do but obſerve, when they did joyn
+<pb n="5" facs="tcp:118329:4"/> or ſet forward any good thing for the profit of this Commonwealth, or eaſe of the people thereof, but have been the obſtructers of many, and the cauſers of many burthens to be as heavy yoaks lying on the necks of them; &amp; viper-like have indeavoured to eat out the very Bowels of this Parliament: ſo that ſaying in the Prophet is made good: <hi>And as thieves wait for a man, the com<g ref="char:EOLhyphen"/>pany of Prieſts murther in the way by conſent:</hi> for they work miſchief. See and read hiſtory, if there were any Villany in a Nation, if a Prieſt had not a hand in it. See Maſter <hi>Pryme's Looking Glaſs for Lordly Biſhops.</hi> Was not the Pope and his Lordly papal Authority, with all his Popiſh Hirerchy, and Lordly Biſhops, and their Rabble, with all their maintenance ſetled by the ſame law? See the Acts of Parliament: and they are taken away, and yet we injoyed property ſtill; and ſurely if Tithes as well as Biſhops Lands, and Colledge-Lands as well as Dean and Chapters Lands, ſhould be ſold and taken away, the people of the Commonwealth would enjoy property more then they do now; yea Religion and learning alſo. Therefore it is hoped that none but the worſhippers of the Beaſt and lovers of the whore will be againſt the clear rooting up of Tithes root and branch, and need not fear the touching of the Law by which we enjoy property.</p>
+            <p>(E) Well ſaid, cunning fellows; they will be of the ſureſt ſide; they will not part with their fair <hi>Dal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lah's,</hi> but for a good and better exchange, a more fuller &amp; better maintenance. Its wondred whither the coveteouſneſs of theſe Prieſts will in the next petition enlarge it ſelf: they have the fifth of eve<g ref="char:EOLhyphen"/>ry mans eſtate already; the next ſurely muſt be all: ſo that like hell they will inlarge their deſires, and then the poor countryman that now is faine to ſave it out of his own, his wives and childrens bellies, ſhall have no bread at all to live on. But ſurely we are <hi>not delivered to work all theſe abominations;</hi> but as the former have been found to have been of the Devils ſetting up, by his eldeſt ſon the Beaſt, and his Queen the great whore and the falſe prophet, the body of the Clergy ſpoken of in <hi>Revel.</hi> 13. &amp; 17. Chapters; ſo will theſe Tithes and Colledge-lands: for they ſtand on the ſame bottome: and as <hi>Hamans</hi> wife ſaid to him, <hi>Eſth.</hi> 6. 13. They have begun to fall, and they ſhall ſurely fall; for God will not ſuffer ſuch wickedneſs long to continue, as is practiſed by theſe Clergy-men, on the poor people of this Land, as they do by treble damage on all the people that refuſe to pay it them out of a pure con<g ref="char:EOLhyphen"/>ſcience: ſo that ſaying of the Lord by his Prophet, is made good, <hi>Micah 3. 5. Thus ſaith the Lord, The Prophets that deceive my people, and bite them with their teeth, and cry peace; but if a man put not into their mouthes, they prepare war againſt him.</hi>
+            </p>
+            <p>(F) From your conſcience as your duty; is it one good and ſure grounds? had you a Lawyer to your Counſellor? for a Prieſt its believed you had: and if both were there, they might ſhew you a couple of reaſons for it, but perhaps one Reaſon of the Sun were worth them both. You that have been ſharp ſighed to ſee Satans working, and transforming himſelf, its ſtrange you miſſed it here; but I believe he opened the bottomleſs pit, that there was ſo great a ſmoak with his angels the Prieſts, that you took falſhoods for truths, and ſo preſently ſay, you are bound in conſcience as your duty ſo to do: and therefore we will pity you, and the next time deſire you to clear
+<pb n="6" facs="tcp:118329:4"/> your eye-ſights, and not ſo to miſtake and be ſo ſottiſh to be led ſo by the noſe.</p>
+            <p>Can there be greater prophaners and contemners of the pure ordinances of Chriſt, then the Clergy of the world are, nay of this Nation, yea of the County of <hi>Wilts?</hi> is there not all profane ignorant perſons received into their Church? is not the holy things of God, and <hi>the Childrens bread given to dogs?</hi> all muſt pay Tithes, elſe, <hi>No peny, no Pater-noſter;</hi> but pay peny, and have all; he ſhall paſs, if he be a rich man, and pay his Tithes, for a very good and pretious Saint, thought he be a profane Devil; as witneſs Maſter <hi>
+                  <g ref="char:V">Ʋ</g>mpheries</hi> book pleading for the ſame, and Maſter <hi>Maſterſons</hi> practice at Clements Danes <hi>London:</hi> and is not this a great prophaning the ordinances of Chriſt, and a bringing them in contempt? it is left for the wiſe to judge.</p>
+            <p>(G) O ſtrange! here is a change indeed; the Clergy are zealous for the Civil Government: Surely they are converted, and now have ſwallowed that hard bit that lay ſo long on their ſtomacks, the honeſt and harmleſs En<g ref="char:EOLhyphen"/>gagement to be true and faith<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul. Dare you believe them? harke, you may ſmell their ſecret plots and tamperings now with the Dutch, as in <hi>Cam<g ref="char:EOLhyphen"/>bridge-</hi>ſhire and other places; it's pity they have not Sion-Colledge, that they may there ſit and hatch more Cockatrice eggs: but now I do remember my ſelf, it is granted them: then look what will follow—</p>
+            <p>(H) It is not long ſince you could go and ſay, <hi>To your Sacred Majeſty, next under God Supream head and governor,</hi> full mouth'd and at large; witneſs 1647, 48, 49, 50, 51, 52, and it will reach—to 53. Did not you all with <hi>Love, Caſe, Drak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Jenkins,</hi> with our dear brethren of <hi>Sco<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> make your complaints to his Moſt Sacreed Majeſty the Lords anointed, our dear Barn and Covenanted Childe? it is well if the winde be changed: but how long will it continue? no body knows; and truſt to them you may not.</p>
+            <p>(I) Here they come ſorth in a goodly dreſs, as if they were true and faith<g ref="char:EOLhyphen"/>ful Commonwealths-men; and do now fawn one the Parliament with a little acknowledgement of Gods bleſſing them: and truly it is but a little indeed; for if tney had ſaid leſs, they had ſaid nothing: and that they knew would be a Remora in the eſtabliſhing their Tithes, and a proſpering of this pretty Babe maintenance. They do alſo put up a faint prayer: but they are to be born with; for they have but new learned to ſpeak the language.</p>
+            <p>(K) Do not ſay ſo: for the godly both Gentlemen and others the Free-holders of <hi>Wilts</hi> do not conſent to this Petition; and its hoped the godly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n this Commonwealth know better, as you may ſee in the petitions of <hi>Hartford, Bucks,</hi> and in a book called <hi>The Husbandmans plea againſt Tithes,</hi> ſould at the Blackamore by Fleet-bridge, ſigned by many of the honeſt and well-affected Freeholders of the ſame Counties: therefore you do not ſpeak the minde of the truly godly.</p>
+            <p>(L) Is it not to be feared that <hi>Adoniram</hi> the Scribe, when this was writ, had his head troubled about ſetling ſure of his new flock, almoſt 400 <hi>l. per an.</hi> that made you thus miſtake? for, as is before ſaid, there is none like them for pro<g ref="char:EOLhyphen"/>faning Ordinances; and therefore its hoped that ſeeing the laws of Chriſt will not prevail with them to keep them from committing the ſins of prophaning and contemning the pureſt ordinances of Chriſt, the Parliament will make
+<pb n="7" facs="tcp:118329:5"/> a Law to teach them more wit, and better manners; for they are judged to have need of both, as you may ſee by their good brother Clergie-man of <hi>Ridlington</hi> in <hi>Rutland-ſhire,</hi> who preaching on this text, <hi>Fear not, little flock, it is your Fathers will to give you a Kingdome,</hi> he obſerved this doctrine, <hi>That God would make the heads of this Nation a foot-ſtool for the King to get up to his Throne.</hi> Judge now whether they have not need to be better taught, before they be better fed.</p>
+            <p>(M) How came theſe words in faſhion amongſt the Clergie? for <hi>Prieſt</hi> was all the tearm. O but we are told by the Petitioners, that <hi>Satan hath transformed himſelf into an Angel of light,</hi> and therefore <hi>Prieſt</hi> muſt be buri<g ref="char:EOLhyphen"/>ed, and now they will be Paſtors and Teachers: of what? of people? Do they preach for the ſaving of ſouls? no; for 400 l. a year: and if a Bene<g ref="char:EOLhyphen"/>fice fall of 100 d. a year better then that they are poſſeſſed of, away goeth this Paſtor, and leaveth his 300. l. a year flock, and imbraces his 400. l. as <hi>Adroniam</hi> the Scribe did <hi>Fulham,</hi> for one in the County of Wilts; and <hi>Iſa<g ref="char:EOLhyphen"/>ack,</hi> that was ſometime the glaſs-man, did <hi>Hammerſmith,</hi> for <hi>Fulham:</hi> ſo that indeed that ſaying (by them and this Petition) in the Prophet is verified Jer. 5. 31. <hi>The Prophets preach lyes, and the Prieſts divine for hire, and my peo<g ref="char:EOLhyphen"/>ple delight to have it ſo: and what will ye do in the end thereof?</hi>
+            </p>
+            <p>(N) To this Article, I will onely refer you to <hi>Beza</hi> his notes on <hi>Acts</hi> the 6. and 9 verſe, beginning at the figure 7. Whoſe words are theſe: <hi>Schooles and <g ref="char:V">Ʋ</g>niverſities were of old time addicted to falſe Paſtors, and were the inſtru<g ref="char:EOLhyphen"/>ments of Satan to blow abroad and defend falſe Doctrines of the company and Colledge,</hi> as it were. 8. <hi>Falſe Teacbers, becauſe they will not be overcome, fly from diſputations to manifeſt and open ſlandering and falſe accuſations. (9) The firſt bloody perſecution of the Church of Christ began and ſprung from a Counſel of Prieſts, by the ſuggeſtion of the <g ref="char:V">Ʋ</g>niverſitie-Doctors.</hi> Thus ſaith he. Had we not need to Petition for their ſtanding? why were then the Biſhops put down? for popery is there practiſed ſtill, as all their Popiſh Offices and Garments, their Scarlet Robes, their Maces, Tip-ſtaves, and their ſquare Tiburne-Caps, and a hundred other trinkets of the Whore.</p>
+            <p>(O) Had you but been diligent obſervers of the doctrine of Chriſt, you would never have flown to the Civil powers to have defended you from con<g ref="char:EOLhyphen"/>tempt: for it's the portion of his people to be reviled and made contempti<g ref="char:EOLhyphen"/>ble: but it ſeems you do not like it; and you may believe Chriſt will not much eſteem of you: and be ſure, fence your ſelves as ſtrong as you will or can, the thing you ſo much fear, God will bring to paſs; as the Lord hath ſaid in <hi>Mal. 2. 9. Therefore have I alſo made you to be deſpiſed and vile before all the people, becauſe you kept not my waies, but have been partial in the Law.</hi>
+            </p>
+            <trailer>Thus Reader in brief, we have given you a taſte of the Cler<g ref="char:EOLhyphen"/>gie of <hi>Wilts;</hi> by which our Country-men may judge of the rest of their Petitions from other Counties.</trailer>
+            <closer>
+               <salute>So we bid thee farewel.</salute>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
